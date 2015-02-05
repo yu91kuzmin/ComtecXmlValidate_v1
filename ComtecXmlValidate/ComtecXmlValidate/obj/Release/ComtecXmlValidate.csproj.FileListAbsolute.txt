@@ -1,0 +1,6 @@
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\bin\Release\ComtecXmlValidate.dll
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\bin\Release\ComtecXmlValidate.pdb
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\obj\Release\ComtecXmlValidate.dll
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\obj\Release\ComtecXmlValidate.pdb
+C:\Users\Yury\Documents\Visual Studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\bin\Release\ComtecXmlValidate.tlb
+C:\Users\Yury\Documents\Visual Studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\obj\Release\ComtecXmlValidate.csprojResolveAssemblyReference.cache

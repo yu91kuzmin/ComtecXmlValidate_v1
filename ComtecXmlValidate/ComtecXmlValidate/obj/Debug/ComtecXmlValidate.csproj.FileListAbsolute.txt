@@ -1,0 +1,5 @@
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\bin\Debug\ComtecXmlValidate.dll
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\bin\Debug\ComtecXmlValidate.pdb
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\bin\Debug\VSAX3.dll
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\obj\Debug\ComtecXmlValidate.dll
+c:\users\yury\documents\visual studio 2013\Projects\ComtecXmlValidate\ComtecXmlValidate\obj\Debug\ComtecXmlValidate.pdb
